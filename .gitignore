@@ -1,0 +1,58 @@
+# Personal Information (NEVER COMMIT)
+*personal*
+*private*
+*confidential*
+*.personal.*
+*.private.*
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+.temporary/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files (may contain personal info)
+*.csv
+*.xlsx
+*.json.backup
+raw_data/
+backup/
+
+# Log files
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
